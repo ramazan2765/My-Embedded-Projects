@@ -1,0 +1,2 @@
+../Src/corem4.c:11:6:nvic_irqno_enable	16	static
+../Src/corem4.c:22:6:nvic_irqno_desable	16	static

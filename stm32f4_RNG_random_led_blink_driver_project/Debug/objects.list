@@ -1,0 +1,8 @@
+"./Src/corem4.o"
+"./Src/gpio.o"
+"./Src/main.o"
+"./Src/rng.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Src/utility.o"
+"./Startup/startup_stm32f407vgtx.o"

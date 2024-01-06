@@ -1,0 +1,2 @@
+../Src/rng.c:9:6:rng_init	8	static
+../Src/rng.c:28:10:get_random_number	4	static
