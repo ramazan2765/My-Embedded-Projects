@@ -1,0 +1,10 @@
+../Src/gpio.c:9:6:gpio_perip_clock_en	10
+../Src/gpio.c:31:9:get_port_code	10
+../Src/gpio.c:53:6:gpio_init	5
+../Src/gpio.c:117:6:gpio_writeto_output_pin	2
+../Src/gpio.c:125:6:gpio_toggleto_output_pin	1
+../Src/gpio.c:130:6:gpio_writeto_output_port	1
+../Src/gpio.c:135:10:gpio_read_input_pin	1
+../Src/gpio.c:143:6:enable_gpio_interrupt	4
+../Src/gpio.c:154:6:desable_gpio_interrupt	4
+../Src/gpio.c:165:6:clear_pending_reg	2
